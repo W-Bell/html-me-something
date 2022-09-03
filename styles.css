@@ -1,0 +1,30 @@
+body {
+    margin: auto;
+    text-align: center;
+    background-color: #d4e09b;
+}
+header {
+    padding: 10px;
+    margin: 10px;
+    color: #000000;
+}
+p {
+    font-size: large;
+}
+h2 {
+    color: #219ebc;
+}
+.name {
+    font-size: small;
+}
+#bottom {
+   margin: auto; 
+   background-color: #f6f4d2; 
+   border: 5px solid black; 
+   width: 50%;
+}
+footer {
+    margin: auto;
+    background-color: rgb(125, 165, 238);
+    width: 50%;
+}
